@@ -1,2 +1,2 @@
-# fuzzy-invention
+# epubPackager
 Rezip your epub in your browser.
